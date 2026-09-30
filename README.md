@@ -38,7 +38,7 @@ Windows, Linux, TCP/IP, DNS, DHCP, network troubleshooting
 
 ### Featured Projects
 
-- **[Pet Choice](https://github.com/dmpatel90)**: a full-stack cat-breed explorer built with Node.js, Express, PostgreSQL, Sequelize, EJS and Bootstrap.
+- **[Pet Choice]([https://github.com/dmpatel90](https://github.com/dmpatel90/Petchoice-Part3))**: a full-stack cat-breed explorer built with Node.js, Express, PostgreSQL, Sequelize, EJS and Bootstrap.
 - **[Portfolio Website](https://devpatel-it.vercel.app/)**: my personal site, built with Next.js and Tailwind CSS and hosted on Vercel.
 
 ---
